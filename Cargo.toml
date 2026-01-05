@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["broadcast","echo","proto", "unique_ids"]
